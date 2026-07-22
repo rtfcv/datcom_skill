@@ -1,0 +1,3 @@
+[submodule ".claude/skills/datcom-input"]
+	path = .claude/skills/datcom-input
+	url = https://github.com/rtfcv/datcom-input-skill
